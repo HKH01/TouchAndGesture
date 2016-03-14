@@ -11,4 +11,5 @@ TouchID   LAContext
 
 此demo是实现基本效果
 
-![image](https://github.com/Lian1990/TouchAndGesture/blob/master/LockGesture.gif）
+
+![image](https://github.com/Lian1990/TouchAndGesture/blob/master/LockGesture.gif)
